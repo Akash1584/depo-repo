@@ -10,7 +10,7 @@ h2{
 }
 .flexible-container{
   display: flex;
-  margin-bottom:50px;
+  margin-bottom:100px;
 }
 .half-width{
   width:50%;
@@ -21,9 +21,9 @@ width:80%;
 }
 
 .top banner{
-  background-image: url(images/food2.bg.jpg);
+ width:50px;
   background-repeat: no-repeat;
-  background-image:url(images/food4.jpeg);
+  height:50%;
 }
 ।
 .orange-color{
@@ -36,6 +36,7 @@ width:80%;
   color:white;
   font-weight:700;
   border-radius:10px;
+  
 }
 h3{
 
@@ -49,7 +50,33 @@ h4{
 }
 .blue-color{
   color:blue;
+  text-align:center;
 }
 footer p{
   Stay healthy live healthy live happily
+}
+.go{
+  text-align:center;
+}
+.Mom{
+  text-align: center;
+  
+}
+.Bom{
+  text-align:center;
+ 
+}
+.tittle-baba{
+  display:flex;
+  padding left:3%;
+}
+.Majkhan{
+  text-align:center;
+  background-color:Green;
+  height:30px;
+}
+h5{
+  text-align:center;
+  background-color:green;
+  height:20px;
 }
