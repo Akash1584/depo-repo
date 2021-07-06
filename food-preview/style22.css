@@ -1,0 +1,52 @@
+body{
+  font-family:'Poppins',sans-serif;
+  margin:0;
+}
+h2{
+  font-size: 50px;
+}
+.green-color{
+  color: green;
+}
+.flexible-container{
+  display: flex;
+  margin-bottom:50px;
+}
+.half-width{
+  width:50%;
+  padding-left: 3%;
+}
+ .half-width img{
+width:80%;
+}
+
+.top banner{
+  background-image: url(images/food2.bg.jpg);
+  background-repeat: no-repeat;
+  background-image:url(images/food4.jpeg);
+}
+।
+.orange-color{
+  color:orange;
+}
+.link-button{
+  text-decoration: none;
+  background-image:linear-gradient(orange,tomato);
+  padding:10px 40px;
+  color:white;
+  font-weight:700;
+  border-radius:10px;
+}
+h3{
+
+  text-align:right;
+}
+h4{
+  text-align: right;
+}
+.b{
+  text-align: center;
+}
+.blue-color{
+  color:blue;
+}
